@@ -31,7 +31,7 @@
 }
 
 .col-2 {
-  float: right;
+  display: inline-block;
   width: 38%;
   padding: 1%;
 }

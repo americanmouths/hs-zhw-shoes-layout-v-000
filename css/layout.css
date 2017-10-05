@@ -26,8 +26,10 @@
 
 .col-1 {
   float: left;
+  width: 40%;
 }
 
 .col-2 {
   float: right;
+  width: 40%;
 }

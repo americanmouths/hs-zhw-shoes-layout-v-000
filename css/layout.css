@@ -22,25 +22,31 @@
   clear: both;
 }
 
-/* Posititoning Classes */
-
-#col-1 { /**takes up 2/3 -- includes summer grass, lady bug and skaters/contact correspondence and links */
-  display: inline-block;
-  width: 63%;
-  padding: 1%;
+.col-1 {
+   width: 32%;
+   float:left;
 }
 
-.lady {
-  width: 35%;
+.col-2 {
+  width :66%;
+  float:left;
 }
 
-#col-2 { /*-- takes up 1/3 -- includes shoe archive and bluestar heels/follow */
-  display: inline-block;
-  width: 33%;
-  padding: 1%;
-}
++.col-3 {
++  margin-left: 0px;
++}
 
-#col-2.baby {
-  display: inline-block;
-  width: 33%;
+[class*="col-"] {
+  margin-left:2%;
 }
++
++.first {
++  margin-left: 0;
++  clear:left;
++}
++#archive {
++  margin-bottom: 20px;
++}
++#archive ul, #archive ol {
++  margin-bottom:4px;
++}

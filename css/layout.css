@@ -25,13 +25,15 @@
 /* Posititoning Classes */
 
 .col-1 {
-  display: inline-block;
+  float: right;
   width: 60%;
+  padding: 1%;
 }
 
 .col-2 {
   display: inline-block;
-  width: 30%;
+  width: 38%;
+  padding: 1%;
 }
 
 .col-3 {

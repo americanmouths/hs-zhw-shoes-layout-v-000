@@ -27,13 +27,11 @@
 .col-1 {
   display: inline-block;
   width: 63%;
-  margin: 0;
 }
 
 .col-2 {
   display: inline-block;
   width: 33%;
-  margin: 0 1% 1% 1%;
 }
 
 .col-3 {

@@ -53,4 +53,20 @@
   padding: 1%;
 }
 
+.col-6 {
+  display: inline-block;
+  width: 31%;
+  padding: 1%;
+}
 
+.col-7 {
+  display: inline-block;
+  width: 31%;
+  padding: 1%;
+}
+
+.col-8 {
+  display: inline-block;
+  width: 31%;
+  padding: 1%;
+}

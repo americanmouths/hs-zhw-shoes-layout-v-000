@@ -31,6 +31,7 @@
 }
 
 .col-2 {
+  float: right;
   width: 38%;
   padding: 1%;
 }

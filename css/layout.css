@@ -55,20 +55,17 @@
 .col-6 {
   display: inline-block;
   width: 25%;
-  padding: 1%;
   background: #000;
 }
 
 .col-7 {
   display: inline-block;
   width: 25%;
-  padding: 1%;
   background: yellow;
 }
 
 .col-8 {
   display: inline-block;
   width: 25%;
-  padding: 1%;
   background: aqua;
 }

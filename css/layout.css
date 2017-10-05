@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
-.two-column {
+.col-1 {
   float: left;
+}
+
+.col-2 {
+  float: right;
 }

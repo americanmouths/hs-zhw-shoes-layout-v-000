@@ -27,6 +27,7 @@
 .col-1 {
   display: inline-block;
   width: 60%;
+  padding-top: 0;
 }
 
 .col-2 {

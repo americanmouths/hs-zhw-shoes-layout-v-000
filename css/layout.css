@@ -29,6 +29,10 @@
   width: 66%;
 }
 
+#col-1.lady, #col-1.skate {
+  width: 33%;
+}
+
 #col-2 { /*-- takes up 1/3 -- includes shoe archive and bluestar heels/follow */
   display: inline-block;
   width: 33%;

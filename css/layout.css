@@ -25,5 +25,5 @@
 /* Posititoning Classes */
 
 .two-column {
-  clear: both;
+  float: left;
 }

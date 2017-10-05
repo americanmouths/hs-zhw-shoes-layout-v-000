@@ -36,15 +36,18 @@
 
 .col-3 {
   display: inline-block;
-  width: 33%;
+  width: 31%;
+  padding: 1%;
 }
 
 .col-4 {
   display: inline-block;
-  width: 33%;
+  width: 31%;
+  padding: 1%;
 }
 
 .col-5 {
   display: inline-block;
-  width: 33%;
+  width: 31%;
+  padding: 1%;
 }

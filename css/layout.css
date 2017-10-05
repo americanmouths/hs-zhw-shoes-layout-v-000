@@ -26,7 +26,8 @@
 
 #col-1 { /**takes up 2/3 -- includes summer grass, lady bug and skaters/contact correspondence and links */
   display: inline-block;
-  width: 65%;
+  width: 63%;
+  padding: 1%;
 }
 
 .lady {
@@ -36,6 +37,7 @@
 #col-2 { /*-- takes up 1/3 -- includes shoe archive and bluestar heels/follow */
   display: inline-block;
   width: 33%;
+  padding: 1%;
 }
 
 #col-2.baby {

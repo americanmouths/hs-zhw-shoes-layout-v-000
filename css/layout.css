@@ -29,7 +29,7 @@
   width: 66%;
 }
 
-#col-1.lady, #col-1.skate {
+#col-1 .lady, #col-1 .skate {
   display: inline-block;
   width: 33%;
 }

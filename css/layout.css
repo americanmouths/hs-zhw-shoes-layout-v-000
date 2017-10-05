@@ -27,13 +27,13 @@
 .col-1 {
   display: inline-block;
   width: 63%;
-  padding-top: 0;
+  margin: 0;
 }
 
 .col-2 {
   display: inline-block;
   width: 35%;
-  padding: 1%;
+  margin: 1%;
 }
 
 .col-3 {

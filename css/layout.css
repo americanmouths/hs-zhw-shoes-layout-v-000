@@ -43,7 +43,9 @@
 .first {
    margin-left: 0;
    clear:left;
+   padding: 1px;
 }
+
 
 #archive {
    margin-bottom: 20px;

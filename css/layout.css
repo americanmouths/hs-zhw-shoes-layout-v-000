@@ -32,21 +32,23 @@
   float:left;
 }
 
-+.col-3 {
-+  margin-left: 0px;
-+}
+.col-3 {
+   margin-left: 0px;
+}
 
 [class*="col-"] {
   margin-left:2%;
 }
-+
-+.first {
-+  margin-left: 0;
-+  clear:left;
-+}
-+#archive {
-+  margin-bottom: 20px;
-+}
-+#archive ul, #archive ol {
-+  margin-bottom:4px;
-+}
+
+.first {
+   margin-left: 0;
+   clear:left;
+}
+
+#archive {
+   margin-bottom: 20px;
+}
+
+#archive ul, #archive ol {
+  margin-bottom:4px;
+}
